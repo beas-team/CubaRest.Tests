@@ -65,6 +65,7 @@
   <ItemGroup>
     <EmbeddedResource Include="RestApiConnection_Template.json" />
     <None Include="packages.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CubaRest\CubaRest.csproj">
